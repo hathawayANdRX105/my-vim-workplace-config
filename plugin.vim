@@ -40,4 +40,3 @@ Plug 'tpope/vim-fugitive'
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
 
-require('gitsigns').setup()

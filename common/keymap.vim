@@ -74,6 +74,7 @@ vnoremap <silent> <leader>c/ :call nerdcommenter#Comment("n", "Sexy")<cr>
 " git
 nnoremap <silent> <leader>gg :Git<cr>
 nnoremap <silent> <leader>gi :Git init<cr>
+nnoremap <silent> <leader>ga :Git remote add
 nnoremap <silent> <leader>gb :Git branch
 nnoremap <silent> <leader>gB :Git blame<cr>
 nnoremap <silent> <leader>gc :Git commit<cr>

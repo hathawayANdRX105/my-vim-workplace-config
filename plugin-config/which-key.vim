@@ -115,6 +115,7 @@ let g:which_key_map.g = {
       \ 'name' : '+git' ,
       \ 'g' : [':Git', 'git-status'],
       \ 'i' : [':Git init', 'init'],
+      \ 'a' : [':Git remote add', 'remote-add'],
       \ 'b' : [':Git branch', 'branch'],
       \ 'B' : [':Git blame', 'blame'],
       \ 'c' : [':Git commit', 'commit'],
